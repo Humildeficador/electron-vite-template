@@ -60,7 +60,11 @@ Para empacotar o aplicativo e gerar os executáveis finais para o seu sistema op
 
 ```bash
 pnpm build
+```
 
+### Para cada sistema individual
+
+```bash
 # Para windows
 pnpm build:win
 
