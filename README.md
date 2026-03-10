@@ -61,13 +61,13 @@ Para empacotar o aplicativo e gerar os executáveis finais para o seu sistema op
 ```bash
 pnpm build
 
-# For windows
+# Para windows
 pnpm build:win
 
-# For macOS
+# Para macOS
 pnpm build:mac
 
-# For Linux
+# Para Linux
 pnpm build:linux
 ```
 
