@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "bradlc.vscode-tailwindcss",
+    "naumovs.color-highlight",
+    "clinyong.vscode-css-modules",
+    "formulahendry.auto-rename-tag"
+  ]
+}
