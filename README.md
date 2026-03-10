@@ -60,6 +60,15 @@ Para empacotar o aplicativo e gerar os executáveis finais para o seu sistema op
 
 ```bash
 pnpm build
+
+# For windows
+pnpm build:win
+
+# For macOS
+pnpm build:mac
+
+# For Linux
+pnpm build:linux
 ```
 
 > **Nota:** Os arquivos empacotados pelo Electron-Builder estarão disponíveis na pasta `dist/` ou `build/` (pastas ignoradas pelo Git).
